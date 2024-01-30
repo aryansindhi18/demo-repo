@@ -2,16 +2,11 @@
 # demo-repo
 cohort intro to git for cloning
 adding a line 
-adding another linei
+adding another line
 
 
+##DEVELOPMENT INSTRUCTIONS
 
+Make sure you have javascript in your system
 
-
-
-
-
-sbhjaKSDBkjbaFSDjbclakdBFnzxcflnjfweADCFEQNASKJCHFBAD
-
-
-FMS CXJHBVCKHJBHnjeadkmsflnk;'df
+Run Index.html in your browser
